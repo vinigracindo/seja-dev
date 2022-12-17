@@ -1,5 +1,3 @@
-![Hub Education](https://user-images.githubusercontent.com/999040/183535135-50ef8eba-b829-4f4d-97d0-bcb907cb08b4.png)
-
 <h3 align="center">Seja um Dev!</h3>
 <p align="center">
   Formação básica e gratuita para Programadores
