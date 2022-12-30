@@ -1,6 +1,6 @@
 <h3 align="center">Seja um Dev!</h3>
 <p align="center">
-  Formação básica e gratuita para Programadores
+  Formação básica e gratuita para Programadores.
 </p>
 
 # Sumário
